@@ -1,16 +1,13 @@
 # juego_de_raya
 
-A new Flutter project.
+![Juego_de_raya](https://user-images.githubusercontent.com/62777613/225191456-978872f4-83d5-4370-ae6f-955f18fc684e.PNG)
 
-## Getting Started
+![Juego_de_raya_Empate](https://user-images.githubusercontent.com/62777613/225191478-322920dd-d4ac-4753-a438-9ed681998a49.PNG)
 
-This project is a starting point for a Flutter application.
+![Juego_de_raya_Ganador_O](https://user-images.githubusercontent.com/62777613/225191502-a487563c-d759-4a75-bf92-9c1475f43e86.PNG)
 
-A few resources to get you started if this is your first Flutter project:
+![Juego_de_raya_Ganador_X](https://user-images.githubusercontent.com/62777613/225191530-a3ff45d3-a4e8-41cd-8210-b895cfae0c8d.PNG)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Game information
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Adding a Project Line Game and work: On the design and logic of playing Tricky Line
